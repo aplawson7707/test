@@ -1,0 +1,19 @@
+--- file_2.txt ---
+Second file content is slightly different and more creative.
+
+--- doc1.txt ---
+This is a training document.
+This will be the contents of training doc number 1
+This will most likely be at the top of the file when these are concatenated.
+
+
+--- file_1.txt ---
+This is the first file with some random text content.
+
+--- file_5.txt ---
+Fifth file closes the collection with a farewell message: Goodbye for now!
+
+--- doc3.txt ---
+This is a doc for all chatbots. It should be included in both output files.
+
+
