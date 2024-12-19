@@ -1,0 +1,25 @@
+--- doc2.txt ---
+This is also a training document.
+This will be the contents of training doc number 2.
+This will most likely be at the bottom of the page.
+
+
+--- file_4.txt ---
+Fourth file content is all about random musings:
+- Thoughts
+- Ideas
+- Aspirations
+
+--- file_3.txt ---
+Here lies the third file. It's a little more structured:
+1. Item A
+2. Item B
+3. Item C
+
+--- file_5.txt ---
+Fifth file closes the collection with a farewell message: Goodbye for now!
+
+--- doc3.txt ---
+This is a doc for all chatbots. It should be included in both output files.
+
+
